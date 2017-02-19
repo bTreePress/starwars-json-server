@@ -2,7 +2,7 @@
   "name": "swapi-json-server",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnlindquist/swapi-json-server.git"
+    "url": "git+https://github.com/bTreePress/starwars-json-server"
   },
   "version": "1.0.1",
   "description": "",
